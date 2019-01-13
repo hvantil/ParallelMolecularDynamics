@@ -13,7 +13,7 @@ Molecular dynamics simulations explore solid and fluid properties at a molecular
   <img src="img/sim_sizes.png" width="800">
 </p>
 
-Various system sizes were simulated in order to fit the results to Amdahl's Law, examples of which are shown above. A snapshot of the performance gains is seen in the chart below. For a detailed discussion of the methodology and results of the project, see the included report. All code is written in C++, while visualizations were created using [VMD](http://www.ks.uiuc.edu/Research/vmd/).
+Various system sizes were simulated in order to fit the results to Amdahl's Law, examples of which are shown above. A snapshot of the performance gains is seen in the chart below. For a detailed discussion of the methodology and results of the project, see the included [report](report.pdf). All code is written in C++, while visualizations were created using [VMD](http://www.ks.uiuc.edu/Research/vmd/).
 
 <p align="center">
   <img src="img/speedup.png" width="500">
